@@ -1,7 +1,5 @@
 # 🧾 Dollar QR – Legal Documents
 
-![Dollar QR Banner](https://raw.githubusercontent.com/dollarqr/dollarqr-legal-docs/main/github-Dollar-QR.png)
-
 Welcome to the legal documentation repository for **Dollar QR**, a smart, minimal QR solution with $1 dynamic codes and unlimited edits.
 
 This repository hosts the public-facing legal documents for both our **Android** and **iOS** apps.
